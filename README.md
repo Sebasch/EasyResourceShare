@@ -2,4 +2,4 @@
 
 Easy Resource Sharing
 
-Work in Progress - Pre Alpha
+Just playing around with MVC
